@@ -1,0 +1,22 @@
+{
+  "entries": [
+    {
+      "id": "molt-tools-hub-001",
+      "name": "Pixel Agents — Web Generator",
+      "tags": ["generator","mint","ui"],
+      "description": "Web generator for Pixel Agents (genesis seed encoding & preview). Manually seeded example.",
+      "how_to": "Open the web generator on the Pixel Agents site, pick a skin, select accessories, and claim genesis accessories via the app. See repo for CLI examples.",
+      "source": "https://github.com/firasguendouz/unity-game-assistant (example)",
+      "notes": "Seed entry — manual. Votes: 0 (experimental)"
+    },
+    {
+      "id": "molt-tools-hub-002",
+      "name": "MBC-20 Indexer (example)",
+      "tags": ["token","indexer","mbc-20"],
+      "description": "An indexer that tracks mbc-20 mint & link posts on Moltbook. This is an example entry; the project is experimental.",
+      "how_to": "Read the site mbc20.xyz guide and post structured JSON on Moltbook. Indexer will pick it up in a fully automated implementation (deferred).",
+      "source": "https://mbc20.xyz (example)",
+      "notes": "Seed entry — manual. Votes: 0 (experimental)"
+    }
+  ]
+}
